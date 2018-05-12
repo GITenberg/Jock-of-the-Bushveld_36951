@@ -1,0 +1,38 @@
+_repo: Jock-of-the-Bushveld_36951
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Caldwell, E. (Edmund G.)
+    alias: Caldwell, Edmund G.
+    gutenberg_agent_id: '38556'
+    url: http://www.gutenberg.org/2009/agents/38556
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fitzpatrick, Percy
+    aliases:
+    - Fitzpatrick, James Percy, Sir
+    - Fitzpatrick, J. P.
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '6749'
+    url: http://www.gutenberg.org/2009/agents/6749
+description: ''
+gutenberg_issued: '2011-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36951'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Biography'
+- !lcsh 'Dogs -- Folklore'
+- !lcc 'SK'
+- !lcsh 'Transvaal (South Africa) -- Description and travel'
+- !lcsh 'Hunting -- South Africa -- Transvaal'
+title: Jock of the Bushveld
+url: http://www.gutenberg.org/ebooks/36951
